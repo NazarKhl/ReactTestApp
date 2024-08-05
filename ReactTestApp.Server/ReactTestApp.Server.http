@@ -1,0 +1,6 @@
+@ReactTestApp.Server_HostAddress = http://localhost:5057
+
+GET {{ReactTestApp.Server_HostAddress}}/user2/
+Accept: application/json
+
+###
